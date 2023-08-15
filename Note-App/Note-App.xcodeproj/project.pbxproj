@@ -19,6 +19,7 @@
 		B7D52BDA2A8B171600FF29A0 /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = B7D52BD92A8B171600FF29A0 /* Alamofire */; };
 		B7D52BDC2A8B174200FF29A0 /* APIFunction.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7D52BDB2A8B174200FF29A0 /* APIFunction.swift */; };
 		B7D52BE02A8B361A00FF29A0 /* AddNoteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7D52BDF2A8B361A00FF29A0 /* AddNoteViewController.swift */; };
+		B7D52BE42A8B7A6500FF29A0 /* NotePrototypeCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7D52BE32A8B7A6500FF29A0 /* NotePrototypeCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		B7D52BCB2A8B09BB00FF29A0 /* Note_AppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Note_AppUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		B7D52BDB2A8B174200FF29A0 /* APIFunction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIFunction.swift; sourceTree = "<group>"; };
 		B7D52BDF2A8B361A00FF29A0 /* AddNoteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddNoteViewController.swift; sourceTree = "<group>"; };
+		B7D52BE32A8B7A6500FF29A0 /* NotePrototypeCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotePrototypeCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +116,7 @@
 				B7D52BB32A8B09BB00FF29A0 /* LaunchScreen.storyboard */,
 				B7D52BB62A8B09BB00FF29A0 /* Info.plist */,
 				B7D52BDB2A8B174200FF29A0 /* APIFunction.swift */,
+				B7D52BE32A8B7A6500FF29A0 /* NotePrototypeCell.swift */,
 			);
 			path = "Note-App";
 			sourceTree = "<group>";
@@ -276,6 +279,7 @@
 				B7D52BAD2A8B09BA00FF29A0 /* ViewController.swift in Sources */,
 				B7D52BA92A8B09BA00FF29A0 /* AppDelegate.swift in Sources */,
 				B7D52BE02A8B361A00FF29A0 /* AddNoteViewController.swift in Sources */,
+				B7D52BE42A8B7A6500FF29A0 /* NotePrototypeCell.swift in Sources */,
 				B7D52BAB2A8B09BA00FF29A0 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
